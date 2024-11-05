@@ -3,6 +3,16 @@
 ### Project Overview
 To analyze the sales performance of a retail store, this project explores sales data such as top-selling products, regional performance, and monthly sales trends.
 
+### Outline
+- [Project Overview](#project-overview)
+- [Data Source](#data-source)
+- [Tools Used](#tools-used)
+- [Data Cleaning and Preparation](#data-cleaning-and-preparation)
+- [Data Analysis Process](#data-analysis-process)
+- [Data Visualization](#data-visualization)
+- [Insights and Findings](#insights-and-findings)
+- [Conclusion](#conclusion)
+
 ### Data Source
 The source of the data was provided by Incubator Hub, which is an educational tech platform.
 
