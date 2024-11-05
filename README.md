@@ -52,5 +52,30 @@ Power BI:
 
 ### Data Analysis Process
 The data analysis process for the retail store sales data involved several key steps to extract meaningful insights and support decision-making.
+1. Data Exploration
+   - Initial Review: Conducted an initial inspection of the dataset to understand its structure and assess data completeness, identifying key variables such as order ID, product type, quantity sold, unit price, and region.
+     
+2. Revenue Calculation
+   - Total Revenue: Calculated by multiplying the quantity sold by the unit price, providing a clear measure of overall sales.
+   - Average Revenue: Used Excel to determine average revenue, establishing a baseline for typical sales performance.
+   - Regional Revenue Analysis: Applied the AVERAGEIF function in Excel to calculate average revenue by region (e.g., South region), enabling comparative analysis.
+   - Regional Sales Contribution: Calculated the percentage of total sales contributed by each region, offering insights into regional performance.
+
+     ![excel table](https://github.com/user-attachments/assets/d097427a-a502-40e5-a3d9-a6649cdd2037)
+
+3. Top-Selling Products
+   - Product Analysis: Grouped sales data by product category and calculated the total revenue for each category, identifying top-selling products to inform inventory planning and promotional strategies.
+
+4. Trend Analysis
+   - Monthly Sales Trends: Created visualizations in Power BI and Excel to observe monthly sales trends, pinpointing peak sales periods and seasonal demand.
+   - Regional Performance Comparison: Analyzed regional sales data to identify performance discrepancies, using SQL to generate summary statistics and visualizations for deeper insights.
+  
+     ![monthly product](https://github.com/user-attachments/assets/fe75f680-46f9-44b9-9b89-4d043bac96c6)
+
+     
+5. Insights and Reporting
+   - Actionable Insights: Derived insights included focusing on high-demand products, amplifying marketing in strong-performing regions, and preparing for peak sales periods based on observed trends.
+   - Reporting: Findings were presented in structured tables and visualizations to support strategic planning and decision-making.
+
 
 
