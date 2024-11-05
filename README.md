@@ -50,4 +50,7 @@ Power BI:
    Power BI:
    - Applied consistent formats and renamed columns in the Power Query Editor.
 
-![customerdataRev](https://github.com/user-attachments/assets/995733d8-d4b4-426f-89ad-3d069178608d)
+### Data Analysis Process
+The data analysis process for the retail store sales data involved several key steps to extract meaningful insights and support decision-making.
+
+
