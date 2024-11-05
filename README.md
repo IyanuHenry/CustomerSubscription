@@ -46,6 +46,9 @@ Power BI:
      
    SQL:
    - Checked and adjusted data types for consistency using ALTER TABLE and formatting functions.
+
+   ![delete rows and columns](https://github.com/user-attachments/assets/b323a84f-3e10-4ba9-9c1b-c5ac859c9494)
+
      
    Power BI:
    - Applied consistent formats and renamed columns in the Power Query Editor.
@@ -64,7 +67,7 @@ The data analysis process for the retail store sales data involved several key s
      ![excel table](https://github.com/user-attachments/assets/d097427a-a502-40e5-a3d9-a6649cdd2037)
 
 3. Top-Selling Products
-   - Product Analysis: Grouped sales data by product category and calculated the total revenue for each category, identifying top-selling products to inform inventory planning and promotional strategies.
+   - Product Analysis: Grouped sales data by product category and calculated the total revenue for each category, 
 
 4. Trend Analysis
    - Monthly Sales Trends: Created visualizations in Power BI and Excel to observe monthly sales trends, pinpointing peak sales periods and seasonal demand.
@@ -77,5 +80,21 @@ The data analysis process for the retail store sales data involved several key s
    - Actionable Insights: Derived insights included focusing on high-demand products, amplifying marketing in strong-performing regions, and preparing for peak sales periods based on observed trends.
    - Reporting: Findings were presented in structured tables and visualizations to support strategic planning and decision-making.
 
+
+### Data Visualization 
+Visualizations provided clear insights into sales performance, product demand, and regional trends, aiding in decision-making.
+
+1. Revenue and Regional Sales Contribution
+   - KPI Cards: Use KPI (Key Performance Indicator) cards for Total Revenue and Average Revenue. These provide a clear and quick of overall performance metrics.
+   - Sales Contribution Percentage: The pie chart shows each region's share of total sales.
+
+2. Top-Selling Products
+   - Table Visualization: Display each product with its total sales revenue to show revenue by product category.
+     
+3. Count of Product by Region:
+   - Pie Chart: The pie chart is showing the proportion of product counts across regions (East, North, South, West) for the overview of regional product distribution.
+     
+  
+   ![power Bi](https://github.com/user-attachments/assets/5b586680-29c9-4e94-9efc-9c635ed392b1)
 
 
